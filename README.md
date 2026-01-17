@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=worhllo&left_color=green&right_color=red)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Worhllo)
+
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=worhllo)
 
 
