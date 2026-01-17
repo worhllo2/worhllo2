@@ -5,6 +5,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/worhllo/worhllo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/worhllo/worhllo/output/github-contribution-grid-snake.svg">
 </picture>
+
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
