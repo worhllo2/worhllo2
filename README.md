@@ -1,4 +1,5 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiworhlloanuraghazra)
+![visitors](https://visitor-badge.glitch.me/badge?worhllo=page.id&left_color=green&right_color=red)
+
 
