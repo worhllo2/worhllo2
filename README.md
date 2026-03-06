@@ -8,11 +8,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [给博客添加数字分页条](https://note.142588.xyz/post/23.html)
-- [x86_64和AMD64和ARM64？傻傻分不清楚？](https://note.142588.xyz/post/22.html)
-- [Markdown 编辑器如何修改图片大小](https://note.142588.xyz/post/21.html)
-- [专为快速启动而生的软件](https://note.142588.xyz/post/20.html)
-- [关于蒸发速率](https://note.142588.xyz/post/19.html)
+- [dev-sidrcar一个好用神器](https://note.142588.xyz/post/31.html)
+- [「建站」「js插件」萌萌哒的看板娘 &lpar;ノ≧∇≦&rpar;ノ - Live2D widget](https://note.142588.xyz/post/30.html)
+- [「建站」「js插件」APlayer &amp; DPlayer](https://note.142588.xyz/post/29.html)
+- [「建站」网站发布（域名绑定）](https://note.142588.xyz/post/28.html)
+- [「建站」Gmeek使用手册（高级篇）](https://note.142588.xyz/post/27.html)
 <!-- BLOG-POST-LIST:END -->
 
 
