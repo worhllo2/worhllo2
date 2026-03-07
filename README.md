@@ -8,11 +8,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [「CF项目」基于 Astro 构建的超轻量个人导航站项](https://note.142588.xyz/post/33.html)
-- [「CF项目」使用 CloudFlare Workers 搭建专属CloudFlareSpeedTest测速地址](https://note.142588.xyz/post/32.html)
-- [dev-sidrcar一个好用神器](https://note.142588.xyz/post/31.html)
-- [「建站」「js插件」萌萌哒的看板娘 &lpar;ノ≧∇≦&rpar;ノ - Live2D widget](https://note.142588.xyz/post/30.html)
-- [「建站」「js插件」APlayer &amp; DPlayer](https://note.142588.xyz/post/29.html)
+- [「CF项目」基于 Cloudflare Workers 的高性能 ProxyIP 验证服务](https://note.142588.xyz/post/51.html)
+- [「CF项目」属于自己的在线工具箱](https://note.142588.xyz/post/50.html)
+- [「CF项目」基于cloudflare workers搭建的在线留言板](https://note.142588.xyz/post/49.html)
+- [「CF项目」基于 Cloudflare AI &amp; Workers 的免费在线文生图服务](https://note.142588.xyz/post/48.html)
+- [「CF项目」高性能 Edge TTS Cloudflare Worker 代理](https://note.142588.xyz/post/47.html)
 <!-- BLOG-POST-LIST:END -->
 
 
