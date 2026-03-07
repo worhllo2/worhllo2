@@ -8,11 +8,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [「CF项目」基于 Astro 构建的超轻量个人导航站项](https://note.142588.xyz/post/33.html)
+- [「CF项目」使用 CloudFlare Workers 搭建专属CloudFlareSpeedTest测速地址](https://note.142588.xyz/post/32.html)
 - [dev-sidrcar一个好用神器](https://note.142588.xyz/post/31.html)
 - [「建站」「js插件」萌萌哒的看板娘 &lpar;ノ≧∇≦&rpar;ノ - Live2D widget](https://note.142588.xyz/post/30.html)
 - [「建站」「js插件」APlayer &amp; DPlayer](https://note.142588.xyz/post/29.html)
-- [「建站」网站发布（域名绑定）](https://note.142588.xyz/post/28.html)
-- [「建站」Gmeek使用手册（高级篇）](https://note.142588.xyz/post/27.html)
 <!-- BLOG-POST-LIST:END -->
 
 
