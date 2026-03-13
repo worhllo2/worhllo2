@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Worhllo's+Github+Homepage)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Worhllo2's+Github+Homepage)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/worhllo2/worhllo2/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/worhllo2/worhllo2/output/github-contribution-grid-snake.svg">
